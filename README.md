@@ -1,5 +1,7 @@
 # AI Authority Index: open data
 
+![AI Authority Index: Personal Lending, Edition 1, the Star Chart of the 28 Leaderboard lenders, by Third Hemisphere](assets/personal-lending-edition-1-cover.png)
+
 The published results of the **AI Authority Index**, Third Hemisphere's index of how AI engines (ChatGPT, Claude, Copilot, Gemini, and Perplexity) describe, recommend, and source the companies in an Australian market. The index measures **AI visibility**: how often AI search engines and assistants name, recommend, and cite each company, which is the outcome AI SEO and generative engine optimisation (GEO) aim to improve.
 
 Every edition is published under CC BY 4.0. You may share and adapt the data for any purpose, provided you credit Third Hemisphere.
