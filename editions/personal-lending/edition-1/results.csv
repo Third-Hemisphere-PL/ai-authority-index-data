@@ -1,29 +1,123 @@
-company,star_chart_cell,in_index,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
-Commonwealth Bank,AI Famous,yes,55,42,71,44,71,46,371
-NAB,AI Famous,yes,53,50,60,39,82,45,359
-Westpac,AI Famous,yes,52,50,56,44,72,44,351
-ING,Rising Star,yes,51,32,69,56,78,19,156
-Macquarie,Rising Star,yes,48,30,59,55,69,23,185
-Bendigo Bank,Cult Favourite,yes,48,28,58,57,86,14,112
-NOW Finance,Cult Favourite,yes,48,36,66,52,89,8,62
-Plenti,Cult Favourite,yes,48,37,68,45,84,12,96
-OurMoneyMarket,Cult Favourite,yes,47,39,69,45,80,9,72
-loans.com.au,Cult Favourite,yes,46,32,59,62,77,5,40
-Harmoney,Cult Favourite,yes,44,41,67,53,51,10,80
-Liberty,Cult Favourite,yes,44,27,65,36,83,13,106
-MONEYME,Cult Favourite,yes,43,35,59,48,71,9,73
-People First Bank,Cult Favourite,yes,41,27,54,43,87,5,44
-Pepper Money Ltd,Cult Favourite,yes,41,36,60,30,79,12,95
-Bank Australia,Cult Favourite,yes,39,25,54,35,86,5,38
-Bankwest,Cult Favourite,yes,38,27,54,54,46,7,57
-Wisr,Cult Favourite,yes,38,28,53,31,87,5,38
-Great Southern Bank,Cult Favourite,yes,35,22,51,49,45,4,35
-Beyond Bank,Cult Favourite,yes,34,22,53,41,51,4,33
-ANZ,AI Infamous,yes,44,49,42,39,60,41,329
-Cash Converters,Off the Guest List,yes,39,31,46,46,80,5,42
-BOQ,Off the Guest List,yes,38,21,48,42,83,4,35
-Latitude Financial Services,Off the Guest List,yes,38,36,43,54,52,9,74
-St. George,Off the Guest List,yes,38,25,47,45,74,7,56
-Nimble,Off the Guest List,yes,36,28,47,47,58,5,40
-Resimac,Off the Guest List,yes,33,33,47,15,86,6,49
-Wallet Wizard,On the line,yes,42,25,50,54,81,4,31
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Commonwealth Bank,AI Famous,leaderboard,55,42,71,44,71,46,371
+NAB,AI Famous,leaderboard,53,50,60,39,82,45,359
+Westpac,AI Famous,leaderboard,52,50,56,44,72,44,351
+ING,Rising Star,leaderboard,51,32,69,56,78,19,156
+Macquarie,Rising Star,leaderboard,48,30,59,55,69,23,185
+Bendigo Bank,Cult Favourite,leaderboard,48,28,58,57,86,14,112
+NOW Finance,Cult Favourite,leaderboard,48,36,66,52,89,8,62
+Plenti,Cult Favourite,leaderboard,48,37,68,45,84,12,96
+OurMoneyMarket,Cult Favourite,leaderboard,47,39,69,45,80,9,72
+loans.com.au,Cult Favourite,leaderboard,46,32,59,62,77,5,40
+Harmoney,Cult Favourite,leaderboard,44,41,67,53,51,10,80
+Liberty,Cult Favourite,leaderboard,44,27,65,36,83,13,106
+MONEYME,Cult Favourite,leaderboard,43,35,59,48,71,9,73
+People First Bank,Cult Favourite,leaderboard,41,27,54,43,87,5,44
+Pepper Money Ltd,Cult Favourite,leaderboard,41,36,60,30,79,12,95
+Bank Australia,Cult Favourite,leaderboard,39,25,54,35,86,5,38
+Bankwest,Cult Favourite,leaderboard,38,27,54,54,46,7,57
+Wisr,Cult Favourite,leaderboard,38,28,53,31,87,5,38
+Great Southern Bank,Cult Favourite,leaderboard,35,22,51,49,45,4,35
+Beyond Bank,Cult Favourite,leaderboard,34,22,53,41,51,4,33
+ANZ,AI Infamous,leaderboard,44,49,42,39,60,41,329
+Cash Converters,Off the Guest List,leaderboard,39,31,46,46,80,5,42
+BOQ,Off the Guest List,leaderboard,38,21,48,42,83,4,35
+Latitude Financial Services,Off the Guest List,leaderboard,38,36,43,54,52,9,74
+St. George,Off the Guest List,leaderboard,38,25,47,45,74,7,56
+Nimble,Off the Guest List,leaderboard,36,28,47,47,58,5,40
+Resimac,Off the Guest List,leaderboard,33,33,47,15,86,6,49
+Wallet Wizard,On the line,leaderboard,42,25,50,54,81,4,31
+Swoosh,,under_the_radar,,,,,,,27
+BankSA,,under_the_radar,,,,,,,26
+IMB,,under_the_radar,,,,,,,26
+Newcastle Permanent,,under_the_radar,,,,,,,26
+Bank of Melbourne,,under_the_radar,,,,,,,23
+American Express,,under_the_radar,,,,,,,22
+Greater Bank,,under_the_radar,,,,,,,22
+Teachers Mutual Bank,,under_the_radar,,,,,,,21
+Jacaranda Finance,,under_the_radar,,,,,,,20
+Revolut,,under_the_radar,,,,,,,20
+Fair Go Finance,,under_the_radar,,,,,,,19
+MoneyPlace,,under_the_radar,,,,,,,17
+Sunshine Loans,,under_the_radar,,,,,,,17
+Beforepay,,under_the_radar,,,,,,,15
+Money3,,under_the_radar,,,,,,,15
+Unity Bank,,under_the_radar,,,,,,,15
+Virgin Money,,under_the_radar,,,,,,,15
+Firstmac,,under_the_radar,,,,,,,14
+UniBank,,under_the_radar,,,,,,,12
+Fundo,,under_the_radar,,,,,,,10
+Kogan Money,,under_the_radar,,,,,,,10
+MyPayNow,,under_the_radar,,,,,,,10
+BankWAW,,under_the_radar,,,,,,,9
+CashnGo,,under_the_radar,,,,,,,9
+Horizon Bank,,under_the_radar,,,,,,,9
+P&N Bank,,under_the_radar,,,,,,,9
+RACQ,,under_the_radar,,,,,,,9
+Rapid Loans,,under_the_radar,,,,,,,9
+Afterpay,,under_the_radar,,,,,,,8
+Community First Bank,,under_the_radar,,,,,,,8
+Hume Bank,,under_the_radar,,,,,,,8
+Toyota Finance,,under_the_radar,,,,,,,8
+Wagepay,,under_the_radar,,,,,,,8
+City Finance,,under_the_radar,,,,,,,7
+South West Slopes Credit Union,,under_the_radar,,,,,,,7
+Cash Train,,under_the_radar,,,,,,,6
+Police Bank,,under_the_radar,,,,,,,6
+Zip,,under_the_radar,,,,,,,6
+Alex Bank,,under_the_radar,,,,,,,5
+Angle Auto Finance,,under_the_radar,,,,,,,5
+Finance One,,under_the_radar,,,,,,,5
+MoneySpot,,under_the_radar,,,,,,,5
+SocietyOne,,under_the_radar,,,,,,,5
+BCU Bank,,under_the_radar,,,,,,,4
+Cash Direct,,under_the_radar,,,,,,,4
+Credit Union SA,,under_the_radar,,,,,,,4
+MOVE Bank,,under_the_radar,,,,,,,4
+RACV Finance,,under_the_radar,,,,,,,4
+Auswide Bank,,under_the_radar,,,,,,,3
+AutoSwift Finance,,under_the_radar,,,,,,,3
+Bank First,,under_the_radar,,,,,,,3
+BankVic,,under_the_radar,,,,,,,3
+Cash Lab,,under_the_radar,,,,,,,3
+Cash Stop,,under_the_radar,,,,,,,3
+Credit24,,under_the_radar,,,,,,,3
+Klarna,,under_the_radar,,,,,,,3
+Laboratories Credit Union,,under_the_radar,,,,,,,3
+Police Credit Union,,under_the_radar,,,,,,,3
+Qudos Bank,,under_the_radar,,,,,,,3
+Queensland Country Bank,,under_the_radar,,,,,,,3
+"The Mutual Bank, Maitland",,under_the_radar,,,,,,,3
+Australian Alliance Automotive Finance,,under_the_radar,,,,,,,2
+Automotive Financial Services,,under_the_radar,,,,,,,2
+Border Bank,,under_the_radar,,,,,,,2
+CashFaster,,under_the_radar,,,,,,,2
+CashLend,,under_the_radar,,,,,,,2
+ClearCash,,under_the_radar,,,,,,,2
+Dnister Bank,,under_the_radar,,,,,,,2
+EBP Money,,under_the_radar,,,,,,,2
+Good to Go Loans,,under_the_radar,,,,,,,2
+Humm,,under_the_radar,,,,,,,2
+PressPay,,under_the_radar,,,,,,,2
+Quickcash,,under_the_radar,,,,,,,2
+Quickzy Finance,,under_the_radar,,,,,,,2
+Regional Australia Bank,,under_the_radar,,,,,,,2
+Stay Finance,,under_the_radar,,,,,,,2
+The Capricornian,,under_the_radar,,,,,,,2
+Alpha Finance,,under_the_radar,,,,,,,1
+Australian Military Bank,,under_the_radar,,,,,,,1
+Australian Mutual Bank,,under_the_radar,,,,,,,1
+Bank of China (Australia),,under_the_radar,,,,,,,1
+Bank of us,,under_the_radar,,,,,,,1
+Bank Orange,,under_the_radar,,,,,,,1
+BMW Financial Services,,under_the_radar,,,,,,,1
+Cash Loan Money Centres,,under_the_radar,,,,,,,1
+CashPal,,under_the_radar,,,,,,,1
+Defence Bank,,under_the_radar,,,,,,,1
+Flash Money,,under_the_radar,,,,,,,1
+Jingle,,under_the_radar,,,,,,,1
+Nissan Financial Services,,under_the_radar,,,,,,,1
+PayPal,,under_the_radar,,,,,,,1
+Spondooli,,under_the_radar,,,,,,,1
+Ume Loans,,under_the_radar,,,,,,,1
+Volkswagen Financial Services,,under_the_radar,,,,,,,1

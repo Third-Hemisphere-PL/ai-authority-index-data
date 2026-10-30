@@ -1,24 +1,29 @@
 cff-version: 1.2.0
-message: "If you use this data, please cite it as below."
+message: "If you use this dataset, please cite it as below. Licensed CC BY 4.0: credit Third Hemisphere."
 type: dataset
 title: "AI Authority Index: Personal Lending, Edition 1 (results)"
 authors:
   - name: "Third Hemisphere"
-    website: "https://thirdhemisphere.agency"
+    website: "https://thirdhemisphere.agency/"
   - family-names: "Liddle"
     given-names: "Jeremy"
     affiliation: "Third Hemisphere"
-version: "Edition 1"
+abstract: "The published results of Third Hemisphere's AI Authority Index for personal lending, Edition 1, published on 19 October 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/personal-lending."
 date-released: 2026-10-19
-doi: "10.5281/zenodo.23809587"
+version: "Edition 1"
 license: CC-BY-4.0
 url: "https://thirdhemisphere.agency/ai-authority-index/personal-lending"
-repository-code: "https://github.com/Third-Hemisphere-PL/ai-authority-index-data"
+doi: "10.5281/zenodo.23809587"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23809587"
+    description: "The Zenodo record"
 keywords:
   - "AI Authority Index"
   - "AI visibility"
   - "AI SEO"
   - "generative engine optimisation"
   - "AI search"
-  - "personal lending"
-abstract: "The published results of Third Hemisphere's AI Authority Index for personal lending, Edition 1, read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The index measures AI visibility: how often AI search engines and assistants name, recommend, and cite each company."
+  - "CRISP"
+  - "Personal Lending"
+repository-code: "https://github.com/Third-Hemisphere-PL/ai-authority-index-data"
