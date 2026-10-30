@@ -27,6 +27,16 @@ The published results of Third Hemisphere's AI Authority Index for personal lend
 
 These are results only. The data describes what AI engines said in the edition's answers; it does not explain why, and a low reading passes no judgement on a company.
 
+## Always current: the live data
+
+This file is a snapshot. The current results, every market's Standing Reports, and each company's CRISP score and history are live at https://thirdhemisphere.agency/ai-authority-index/data, updated as each edition publishes and each market is measured again:
+
+- JSON API: https://thirdhemisphere.agency/api/public/v1 (OpenAPI 3.1: https://thirdhemisphere.agency/api/public/v1/openapi.json). This edition's results: https://thirdhemisphere.agency/api/public/v1/editions/personal-lending/results?section=personal-lending
+- Feeds of new editions, new markets, and score changes: https://thirdhemisphere.agency/ai-authority-index/feed.xml (RSS), https://thirdhemisphere.agency/ai-authority-index/feed.atom (Atom), https://thirdhemisphere.agency/ai-authority-index/feed.json (JSON Feed)
+- MCP server for AI agents (Claude, ChatGPT, Cursor): https://thirdhemisphere.agency/mcp
+
+Read from the live source to stay current, and cite it as below.
+
 ## About the AI Authority Index
 
 Buyers now ask AI assistants which company to choose before they search, and the answer often settles the shortlist. The Index shows, market by market, which companies those answers put forward, which they caution against, and which they leave out.

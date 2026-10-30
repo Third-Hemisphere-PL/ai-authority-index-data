@@ -14,6 +14,15 @@ Every edition is published under CC BY 4.0. You may share and adapt the data for
 
 Each edition folder has its own README describing every column.
 
+
+## Always current: the live data
+
+These files are snapshots. The current results, every market's Standing Reports, and each company's CRISP score and history are live at https://thirdhemisphere.agency/ai-authority-index/data:
+
+- JSON API: https://thirdhemisphere.agency/api/public/v1 (OpenAPI: https://thirdhemisphere.agency/api/public/v1/openapi.json)
+- Feeds of new editions, new markets, and score changes: https://thirdhemisphere.agency/ai-authority-index/feed.xml (RSS), https://thirdhemisphere.agency/ai-authority-index/feed.atom (Atom), https://thirdhemisphere.agency/ai-authority-index/feed.json (JSON Feed)
+- MCP server for AI agents (Claude, ChatGPT, Cursor): https://thirdhemisphere.agency/mcp
+
 ## How the index is measured
 
 The AI Authority Index is measured with CRISP, which scores how the AI engines buyers use treat a company on five factors: Consensus, Reputation, Influence, Source, and Presence. Each edition is read from the AI answers to buyer questions that name no company.
