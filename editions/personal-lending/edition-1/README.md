@@ -67,6 +67,6 @@ Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecomm
 
 ## How to cite
 
-Third Hemisphere, AI Authority Index, Personal Lending, Edition 1. https://doi.org/10.5281/zenodo.23809587
+Third Hemisphere, AI Authority Index, Personal Lending, Edition 1. https://doi.org/10.5281/zenodo.23809586
 
-For example: Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 19 October 2026, https://doi.org/10.5281/zenodo.23809587.
+For example: Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 19 October 2026, https://doi.org/10.5281/zenodo.23809586.

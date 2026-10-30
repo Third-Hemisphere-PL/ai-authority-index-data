@@ -13,10 +13,10 @@ date-released: 2026-10-19
 version: "Edition 1"
 license: CC-BY-4.0
 url: "https://thirdhemisphere.agency/ai-authority-index/personal-lending"
-doi: "10.5281/zenodo.23809587"
+doi: "10.5281/zenodo.23809586"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23809587"
+    value: "10.5281/zenodo.23809586"
     description: "The Zenodo record"
 keywords:
   - "AI Authority Index"

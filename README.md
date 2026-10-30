@@ -8,7 +8,7 @@ Every edition is published under CC BY 4.0. You may share and adapt the data for
 
 | Market | Edition | Published | Data | DOI | Edition page |
 |---|---|---|---|---|---|
-| Personal Lending | Edition 1 | 19 October 2026 | [results.csv](editions/personal-lending/edition-1/results.csv) | [10.5281/zenodo.23809587](https://doi.org/10.5281/zenodo.23809587) | [thirdhemisphere.agency/ai-authority-index/personal-lending](https://thirdhemisphere.agency/ai-authority-index/personal-lending) |
+| Personal Lending | Edition 1 | 19 October 2026 | [results.csv](editions/personal-lending/edition-1/results.csv) | [10.5281/zenodo.23809586](https://doi.org/10.5281/zenodo.23809586) | [thirdhemisphere.agency/ai-authority-index/personal-lending](https://thirdhemisphere.agency/ai-authority-index/personal-lending) |
 
 Each edition folder has its own README describing every column.
 
@@ -32,7 +32,7 @@ Third Hemisphere is the integrated PR, marketing, AI Authority & Visibility, and
 
 ## How to cite
 
-Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 19 October 2026, https://doi.org/10.5281/zenodo.23809587.
+Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 19 October 2026, https://doi.org/10.5281/zenodo.23809586.
 
 GitHub's "Cite this repository" button reads [CITATION.cff](CITATION.cff).
 
