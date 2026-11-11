@@ -1,12 +1,13 @@
 # AI Authority Index: Business Banking, Edition 1 (results)
 
-The published results of Third Hemisphere's AI Authority Index for business banking, Edition 1, published on 7 November 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 830 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/banking.
+The published results of Third Hemisphere's AI Authority Index for business banking, Edition 1, published on 3 November 2026 and updated on 7 November 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 830 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/banking.
 
 ## The edition
 
 - Edition: Edition 1
 - Market: Business Banking
-- Published: 7 November 2026
+- Published: 3 November 2026
+- Updated: 7 November 2026
 - Publisher: Third Hemisphere
 - The edition page: https://thirdhemisphere.agency/ai-authority-index/banking
 
@@ -77,6 +78,6 @@ Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecomm
 
 ## How to cite
 
-Third Hemisphere, AI Authority Index, Business Banking, Edition 1
+Third Hemisphere, AI Authority Index, Business Banking, Edition 1. https://doi.org/10.5281/zenodo.24146522
 
-For example: Third Hemisphere, AI Authority Index, Business Banking, Edition 1, published 7 November 2026, https://thirdhemisphere.agency/ai-authority-index/banking.
+For example: Third Hemisphere, AI Authority Index, Business Banking, Edition 1, published 3 November 2026, https://doi.org/10.5281/zenodo.24146522.

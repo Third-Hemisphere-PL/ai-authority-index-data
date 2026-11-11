@@ -77,6 +77,6 @@ Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecomm
 
 ## How to cite
 
-Third Hemisphere, AI Authority Index, Hydrogen, Edition 1
+Third Hemisphere, AI Authority Index, Hydrogen, Edition 1. https://doi.org/10.5281/zenodo.24146534
 
-For example: Third Hemisphere, AI Authority Index, Hydrogen, Edition 1, published 10 November 2026, https://thirdhemisphere.agency/ai-authority-index/hydrogen.
+For example: Third Hemisphere, AI Authority Index, Hydrogen, Edition 1, published 10 November 2026, https://doi.org/10.5281/zenodo.24146534.
