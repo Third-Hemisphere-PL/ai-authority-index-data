@@ -1,8 +1,8 @@
 company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
 ING,AI Famous,leaderboard,63,57,75,54,78,52,433
 Macquarie,AI Famous,leaderboard,62,38,86,53,69,52,428
-UBank,AI Famous,leaderboard,53,49,79,50,49,33,270
-Up,Rising Star,leaderboard,54,34,81,55,75,23,192
+UBank,AI Famous,leaderboard,53,49,80,50,46,33,270
+Up,Rising Star,leaderboard,55,36,82,55,75,24,200
 AMP,Rising Star,leaderboard,51,42,79,41,85,18,152
 HSBC Australia,Rising Star,leaderboard,48,35,59,51,83,18,149
 Bankwest,Rising Star,leaderboard,46,39,65,41,64,22,183
@@ -39,6 +39,7 @@ Heartland Bank,,under_the_radar,,,,,,,16
 Virgin Money,,under_the_radar,,,,,,,16
 Heritage Bank,,under_the_radar,,,,,,,15
 BCU Bank,,under_the_radar,,,,,,,14
+IMB Bank,,under_the_radar,,,,,,,14
 Greater Bank,,under_the_radar,,,,,,,13
 MyState,,under_the_radar,,,,,,,13
 First Option Bank,,under_the_radar,,,,,,,12
@@ -50,7 +51,6 @@ Newcastle Permanent,,under_the_radar,,,,,,,10
 UniBank,,under_the_radar,,,,,,,10
 Australian Military Bank,,under_the_radar,,,,,,,9
 Bank of Sydney,,under_the_radar,,,,,,,9
-IMB Bank,,under_the_radar,,,,,,,9
 Police Bank,,under_the_radar,,,,,,,8
 Queensland Country Bank,,under_the_radar,,,,,,,7
 Arab Bank Australia,,under_the_radar,,,,,,,6

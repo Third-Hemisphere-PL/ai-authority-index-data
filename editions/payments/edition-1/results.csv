@@ -1,7 +1,7 @@
 company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
-Stripe,AI Famous,leaderboard,69,81,73,41,85,78,645
+Stripe,AI Famous,leaderboard,69,81,73,42,85,78,645
+Airwallex,AI Famous,leaderboard,57,60,87,31,65,45,370
 eWAY,AI Famous,leaderboard,57,49,81,39,89,36,301
-Airwallex,AI Famous,leaderboard,56,60,87,30,65,45,370
 Square,AI Famous,leaderboard,52,65,70,37,36,54,448
 GoCardless,Rising Star,leaderboard,53,46,85,41,77,21,176
 Zeller,Rising Star,leaderboard,49,40,87,20,82,22,186
@@ -16,11 +16,10 @@ Ezidebit,Cult Favourite,leaderboard,39,38,61,35,60,8,65
 Worldpay,Cult Favourite,leaderboard,38,25,58,44,53,7,62
 SecurePay,Cult Favourite,leaderboard,33,28,67,25,37,6,52
 Zai,Cult Favourite,leaderboard,32,26,75,11,46,5,41
-Zepto,Cult Favourite,leaderboard,30,46,69,27,1,4,32
+Zepto,Cult Favourite,leaderboard,30,46,69,28,1,4,32
 PayPal,AI Infamous,leaderboard,37,58,39,40,1,47,387
 NAB,Bad Press,leaderboard,38,37,47,15,82,26,218
 Westpac,Bad Press,leaderboard,36,38,46,18,72,23,187
-Commonwealth Bank,Bad Press,leaderboard,34,30,49,15,59,25,206
 Shopify,Bad Press,leaderboard,31,36,44,24,36,19,154
 ANZ,Bad Press,leaderboard,30,31,42,14,60,16,129
 Zip,Off the Guest List,leaderboard,36,30,39,37,82,5,42
@@ -29,17 +28,18 @@ MYOB,Off the Guest List,leaderboard,33,38,41,20,75,11,92
 Afterpay,Off the Guest List,leaderboard,29,30,29,36,53,9,77
 Adobe Commerce,Off the Guest List,leaderboard,27,27,46,29,30,4,32
 Global Payments,Off the Guest List,leaderboard,22,25,47,23,1,6,53
-Braintree,Off the Guest List,leaderboard,19,23,47,11,1,7,55
+Braintree,Off the Guest List,leaderboard,19,23,47,13,1,7,55
+Commonwealth Bank,On the line,leaderboard,35,30,50,16,59,26,212
 Monoova,,under_the_radar,,,,,,,29
+Shift4,,under_the_radar,,,,,,,28
 Gr4vy,,under_the_radar,,,,,,,27
 APS,,under_the_radar,,,,,,,26
 Debit Success,,under_the_radar,,,,,,,25
-Lightspeed,,under_the_radar,,,,,,,21
-Shift4,,under_the_radar,,,,,,,21
+Lightspeed,,under_the_radar,,,,,,,22
+Fiserv,,under_the_radar,,,,,,,21
 Windcave,,under_the_radar,,,,,,,21
 Clover,,under_the_radar,,,,,,,20
 Fat Zebra,,under_the_radar,,,,,,,20
-Fiserv,,under_the_radar,,,,,,,20
 Primer,,under_the_radar,,,,,,,20
 Paydock,,under_the_radar,,,,,,,19
 WorldFirst,,under_the_radar,,,,,,,18

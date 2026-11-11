@@ -17,11 +17,11 @@ Suncorp,Cult Favourite,leaderboard,47,28,75,49,72,10,172
 Granite Home Loans,Cult Favourite,leaderboard,46,33,69,48,88,2,40
 Easy Street,Cult Favourite,leaderboard,45,25,70,68,47,3,47
 Hume Bank,Cult Favourite,leaderboard,45,24,75,42,86,2,41
-People First Bank,Cult Favourite,leaderboard,45,29,70,35,87,10,175
 Queensland Country Bank,Cult Favourite,leaderboard,45,26,75,48,69,5,78
-Regional Australia Bank,Cult Favourite,leaderboard,45,27,76,37,82,5,90
+Regional Australia Bank,Cult Favourite,leaderboard,45,27,77,37,82,5,90
 Brighten,Cult Favourite,leaderboard,44,34,56,51,86,2,42
 NRMA,Cult Favourite,leaderboard,44,28,74,41,77,3,49
+People First Bank,Cult Favourite,leaderboard,44,29,69,35,87,10,178
 Bank of Us,Cult Favourite,leaderboard,43,31,72,28,91,3,57
 Firstmac,Cult Favourite,leaderboard,43,32,60,46,78,7,112
 Freedom Lend,Cult Favourite,leaderboard,42,24,55,51,87,2,31
@@ -29,8 +29,9 @@ Homestar Finance,Cult Favourite,leaderboard,42,23,70,32,84,6,103
 Virgin Money,Cult Favourite,leaderboard,42,30,75,41,57,5,93
 Bridgit,Cult Favourite,leaderboard,41,50,68,36,60,3,45
 ME Bank,Cult Favourite,leaderboard,41,23,71,28,87,5,80
+South West Slopes Bank,Cult Favourite,leaderboard,41,22,71,45,62,2,36
 Greater Bank,Cult Favourite,leaderboard,40,32,70,41,46,8,135
-IMB,Cult Favourite,leaderboard,39,23,62,51,48,6,103
+IMB,Cult Favourite,leaderboard,40,30,62,51,48,6,103
 Mortgage House,Cult Favourite,leaderboard,39,24,58,40,80,2,33
 Yard,Cult Favourite,leaderboard,39,27,57,36,81,2,30
 Bankwest,Cult Favourite,leaderboard,38,26,57,37,64,8,142
@@ -38,8 +39,8 @@ BCU Bank,Cult Favourite,leaderboard,38,21,63,32,77,2,41
 Bank of Melbourne,Cult Favourite,leaderboard,37,24,51,35,75,6,102
 Newcastle Permanent,Cult Favourite,leaderboard,36,30,71,32,39,6,107
 Community First Bank,Cult Favourite,leaderboard,35,22,72,31,41,2,41
+UBank,Cult Favourite,leaderboard,35,29,69,24,41,9,156
 Qudos Bank,Cult Favourite,leaderboard,34,21,54,25,80,2,34
-UBank,Cult Favourite,leaderboard,34,29,69,24,39,9,156
 Gateway Bank,Cult Favourite,leaderboard,33,24,56,18,74,2,39
 Bank of China,Cult Favourite,leaderboard,29,23,58,46,1,3,56
 MyState,Cult Favourite,leaderboard,28,22,51,25,41,2,38
@@ -58,7 +59,6 @@ Great Southern Bank,Off the Guest List,leaderboard,33,39,45,42,35,8,131
 Teachers Mutual Bank,Off the Guest List,leaderboard,27,22,48,22,41,3,49
 Auswide Bank,On the line,leaderboard,33,23,50,20,83,2,40
 Beyond Bank,On the line,leaderboard,30,24,50,23,51,5,88
-South West Slopes Bank,,under_the_radar,,,,,,,29
 Australian Mutual Bank,,under_the_radar,,,,,,,28
 Pacific Mortgage Group,,under_the_radar,,,,,,,28
 P&N Bank,,under_the_radar,,,,,,,27
