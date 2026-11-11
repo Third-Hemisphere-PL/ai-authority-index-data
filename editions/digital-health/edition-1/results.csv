@@ -1,0 +1,93 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Best Practice,AI Famous,leaderboard,50,42,76,15,84,41,343
+MedicalDirector,AI Famous,leaderboard,49,50,74,17,76,38,317
+Telstra Health,Rising Star,leaderboard,54,37,86,39,87,24,198
+MediRecords,Rising Star,leaderboard,46,35,87,13,85,19,157
+Magentus,Rising Star,leaderboard,45,38,73,20,82,22,183
+Hotdoc,Rising Star,leaderboard,43,40,74,23,72,15,127
+Cliniko,Rising Star,leaderboard,42,44,82,19,36,26,215
+Halaxy,Rising Star,leaderboard,42,37,74,13,78,18,152
+Zedmed,Rising Star,leaderboard,41,34,78,17,64,16,136
+Oracle Health,Rising Star,leaderboard,40,36,85,25,34,17,139
+Dedalus,Cult Favourite,leaderboard,53,38,84,50,87,11,94
+Coviu,Cult Favourite,leaderboard,52,47,86,45,80,10,84
+Global Health,Cult Favourite,leaderboard,48,24,81,43,87,6,47
+CareMonitor,Cult Favourite,leaderboard,46,32,86,30,78,8,68
+Healthengine,Cult Favourite,leaderboard,44,40,67,33,78,12,101
+Epic,Cult Favourite,leaderboard,43,31,82,19,77,11,92
+Alcidion,Cult Favourite,leaderboard,40,30,82,23,55,8,70
+InterSystems,Cult Favourite,leaderboard,39,38,76,30,33,13,112
+Pabau,Cult Favourite,leaderboard,39,30,76,10,91,4,30
+Nookal,Cult Favourite,leaderboard,38,38,75,15,62,10,80
+Zanda,Cult Favourite,leaderboard,37,40,84,14,38,12,101
+Orion Health,Cult Favourite,leaderboard,36,33,82,19,39,6,53
+CorePlus,Cult Favourite,leaderboard,35,33,74,8,58,8,68
+Heidi Health,Cult Favourite,leaderboard,35,26,70,32,38,5,38
+Personify Care,Cult Favourite,leaderboard,35,25,80,22,37,4,34
+Splose,Cult Favourite,leaderboard,34,37,79,13,42,4,37
+Clinic to Cloud,Cult Favourite,leaderboard,32,31,79,10,28,10,84
+HealthLink,Cult Favourite,leaderboard,32,24,72,18,42,5,43
+MIMS,Cult Favourite,leaderboard,30,28,64,13,45,4,37
+MEDITECH,,under_the_radar,,,,,,,29
+AlayaCare,,under_the_radar,,,,,,,25
+Fred IT,,under_the_radar,,,,,,,24
+Data Capture Experts,,under_the_radar,,,,,,,22
+Clintel,,under_the_radar,,,,,,,20
+Updoc,,under_the_radar,,,,,,,20
+Altera Digital Health,,under_the_radar,,,,,,,19
+Leecare Solutions,,under_the_radar,,,,,,,18
+Shexie,,under_the_radar,,,,,,,18
+Doxy.me,,under_the_radar,,,,,,,17
+Hola Health,,under_the_radar,,,,,,,17
+Medical-Objects,,under_the_radar,,,,,,,17
+Medmate,,under_the_radar,,,,,,,17
+Wolters Kluwer,,under_the_radar,,,,,,,17
+Episoft,,under_the_radar,,,,,,,16
+PracSuite,,under_the_radar,,,,,,,16
+Smile Digital Health,,under_the_radar,,,,,,,16
+Xestro,,under_the_radar,,,,,,,16
+Lyrebird Health,,under_the_radar,,,,,,,15
+InstantScripts,,under_the_radar,,,,,,,14
+Cubiko,,under_the_radar,,,,,,,13
+Telecare,,under_the_radar,,,,,,,13
+Visionflex,,under_the_radar,,,,,,,13
+Lumary,,under_the_radar,,,,,,,11
+MyHealth1st,,under_the_radar,,,,,,,11
+ShiftCare,,under_the_radar,,,,,,,11
+Elsevier,,under_the_radar,,,,,,,10
+ScriptPad,,under_the_radar,,,,,,,10
+13SICK,,under_the_radar,,,,,,,9
+BESTMED,,under_the_radar,,,,,,,9
+Health Metrics,,under_the_radar,,,,,,,9
+Instant Consult,,under_the_radar,,,,,,,9
+Propell Health,,under_the_radar,,,,,,,9
+Qoctor,,under_the_radar,,,,,,,9
+Zoom,,under_the_radar,,,,,,,9
+AutoMed Systems,,under_the_radar,,,,,,,8
+Doctors on Demand,,under_the_radar,,,,,,,8
+Mirus Australia,,under_the_radar,,,,,,,8
+Teladoc Health,,under_the_radar,,,,,,,8
+Carepatron,,under_the_radar,,,,,,,7
+D4W,,under_the_radar,,,,,,,7
+DynaMed,,under_the_radar,,,,,,,7
+Medilink,,under_the_radar,,,,,,,7
+PenCS,,under_the_radar,,,,,,,7
+Abby Health,,under_the_radar,,,,,,,6
+Clevero,,under_the_radar,,,,,,,6
+FlowLogic,,under_the_radar,,,,,,,6
+GP Consults,,under_the_radar,,,,,,,6
+Halo Connect,,under_the_radar,,,,,,,6
+hub.health,,under_the_radar,,,,,,,6
+Philips,,under_the_radar,,,,,,,6
+Therapeutic Guidelines,,under_the_radar,,,,,,,6
+BookedSolid,,under_the_radar,,,,,,,5
+Civica,,under_the_radar,,,,,,,5
+Clinimetrix,,under_the_radar,,,,,,,5
+Eucalyptus,,under_the_radar,,,,,,,5
+GP2U,,under_the_radar,,,,,,,5
+iinsight,,under_the_radar,,,,,,,5
+InfoMedix,,under_the_radar,,,,,,,5
+MedAdvisor,,under_the_radar,,,,,,,5
+Minfos,,under_the_radar,,,,,,,5
+MYP,,under_the_radar,,,,,,,5
+Upvio,,under_the_radar,,,,,,,5

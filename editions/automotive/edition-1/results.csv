@@ -1,0 +1,88 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Hyundai,AI Famous,leaderboard,47,50,60,27,82,30,250
+Toyota,AI Famous,leaderboard,47,57,72,25,44,43,356
+Kia,Rising Star,leaderboard,48,47,71,28,79,27,226
+Mazda,Rising Star,leaderboard,42,40,61,22,80,22,180
+BYD,Rising Star,leaderboard,41,45,56,34,64,18,151
+MG,Rising Star,leaderboard,40,39,52,37,67,17,137
+Von Bibra,Cult Favourite,leaderboard,43,26,67,42,84,4,37
+Tesla,Cult Favourite,leaderboard,42,39,58,35,80,10,87
+John Hughes,Cult Favourite,leaderboard,41,25,75,44,49,7,55
+Subaru,Cult Favourite,leaderboard,41,31,69,24,80,9,75
+Carma,Cult Favourite,leaderboard,40,38,76,24,53,11,89
+Cars24,Cult Favourite,leaderboard,40,39,62,30,77,7,58
+Chery,Cult Favourite,leaderboard,40,33,51,35,85,9,77
+Isuzu,Cult Favourite,leaderboard,39,32,64,22,81,8,69
+GWM,Cult Favourite,leaderboard,35,33,54,32,51,12,101
+Lexus,Cult Favourite,leaderboard,34,26,69,27,42,5,41
+Suzuki,Cult Favourite,leaderboard,34,28,55,30,58,5,39
+Geely,Cult Favourite,leaderboard,33,27,55,38,42,4,30
+Mitsubishi,Cult Favourite,leaderboard,32,30,56,19,49,11,90
+Westside Auto Wholesale,Cult Favourite,leaderboard,31,32,65,13,50,5,42
+Honda,Cult Favourite,leaderboard,30,29,51,19,51,6,52
+Peter Warren Automotive Group,Cult Favourite,leaderboard,28,24,53,19,43,4,31
+RACQ,Cult Favourite,leaderboard,28,22,59,13,41,5,40
+Eagers Automotive,Cult Favourite,leaderboard,27,25,54,13,39,8,66
+Inchcape,Cult Favourite,leaderboard,25,20,53,12,40,4,31
+Ford,Bad Press,leaderboard,33,40,43,30,37,20,162
+OzCar,Bad Press,leaderboard,33,34,17,54,54,16,131
+Volkswagen,Off the Guest List,leaderboard,34,29,42,22,83,10,82
+Suttons,Off the Guest List,leaderboard,32,27,44,44,36,6,50
+LDV,Off the Guest List,leaderboard,31,37,40,29,57,5,41
+BMW,Off the Guest List,leaderboard,30,29,33,25,71,8,70
+Jeep,Off the Guest List,leaderboard,30,40,32,24,69,7,58
+Nissan,Off the Guest List,leaderboard,30,29,43,22,49,12,99
+easyauto123,Off the Guest List,leaderboard,28,22,42,25,53,4,33
+Land Rover,Off the Guest List,leaderboard,28,32,34,26,61,4,37
+Mercedes-Benz,Off the Guest List,leaderboard,26,26,44,16,43,8,64
+Audi,Off the Guest List,leaderboard,25,29,37,22,38,6,53
+Peugeot,Off the Guest List,leaderboard,24,29,39,10,51,4,33
+Porsche,,under_the_radar,,,,,,,23
+Diamond Wheels,,under_the_radar,,,,,,,22
+Carbarn,,under_the_radar,,,,,,,21
+CARCO,,under_the_radar,,,,,,,21
+Polestar,,under_the_radar,,,,,,,21
+Volvo,,under_the_radar,,,,,,,21
+United Automotive,,under_the_radar,,,,,,,20
+Buy Carz Australia,,under_the_radar,,,,,,,19
+Australian Vehicle Locators,,under_the_radar,,,,,,,18
+Autosports Group,,under_the_radar,,,,,,,17
+Mahindra,,under_the_radar,,,,,,,17
+Zeekr,,under_the_radar,,,,,,,16
+Renault,,under_the_radar,,,,,,,15
+Big Box Cars,,under_the_radar,,,,,,,14
+Melbourne's Cheapest Cars,,under_the_radar,,,,,,,14
+Škoda,,under_the_radar,,,,,,,14
+Fiat,,under_the_radar,,,,,,,13
+Top Used Cars,,under_the_radar,,,,,,,12
+My Car Choice,,under_the_radar,,,,,,,11
+Cars4us,,under_the_radar,,,,,,,10
+Cheap Car Co.,,under_the_radar,,,,,,,10
+DEEPAL,,under_the_radar,,,,,,,10
+EVDealer Group,,under_the_radar,,,,,,,10
+GAC,,under_the_radar,,,,,,,10
+Leapmotor,,under_the_radar,,,,,,,10
+Stellantis,,under_the_radar,,,,,,,10
+Cars of Melbourne,,under_the_radar,,,,,,,9
+Cupra,,under_the_radar,,,,,,,9
+Foton,,under_the_radar,,,,,,,9
+Norris Motor Group,,under_the_radar,,,,,,,8
+Ventura Autos,,under_the_radar,,,,,,,8
+Maserati,,under_the_radar,,,,,,,7
+Motorama,,under_the_radar,,,,,,,7
+Mr Car Sydney,,under_the_radar,,,,,,,7
+RAM,,under_the_radar,,,,,,,7
+Sky Motors,,under_the_radar,,,,,,,7
+XPENG,,under_the_radar,,,,,,,7
+Evolve Motors,,under_the_radar,,,,,,,6
+Jarvis,,under_the_radar,,,,,,,6
+Prestige Auto Traders,,under_the_radar,,,,,,,6
+Tradies Heaven,,under_the_radar,,,,,,,6
+Alfa Romeo,,under_the_radar,,,,,,,5
+Carizma Motors,,under_the_radar,,,,,,,5
+Genesis,,under_the_radar,,,,,,,5
+Kilowatt Cars,,under_the_radar,,,,,,,5
+Purely Commercials,,under_the_radar,,,,,,,5
+Tony Lahood Motors,,under_the_radar,,,,,,,5
+Topcar Rez Autosales,,under_the_radar,,,,,,,5
+Vehicle Connect,,under_the_radar,,,,,,,5

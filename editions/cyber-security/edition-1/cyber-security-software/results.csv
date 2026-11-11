@@ -1,0 +1,111 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Microsoft,AI Famous,leaderboard,65,63,84,47,59,67,558
+CrowdStrike,AI Famous,leaderboard,55,62,80,34,46,52,428
+Palo Alto Networks,Rising Star,leaderboard,54,41,81,45,77,27,224
+Bitdefender,Rising Star,leaderboard,52,37,86,42,75,21,173
+SentinelOne,Rising Star,leaderboard,48,42,84,42,52,19,157
+Sophos,Rising Star,leaderboard,44,37,83,37,38,19,154
+Fortinet,Rising Star,leaderboard,39,32,79,48,1,17,138
+Huntress,Rising Star,leaderboard,39,28,89,38,1,16,131
+Thales,Rising Star,leaderboard,33,33,82,20,1,18,146
+Check Point,Cult Favourite,leaderboard,53,32,84,63,69,12,97
+Cisco,Cult Favourite,leaderboard,49,28,72,45,89,13,104
+Airlock Digital,Cult Favourite,leaderboard,47,29,87,23,89,13,104
+Proofpoint,Cult Favourite,leaderboard,47,33,80,47,67,8,70
+ESET,Cult Favourite,leaderboard,46,31,79,39,74,8,70
+Huntsman Security,Cult Favourite,leaderboard,46,25,87,34,80,6,46
+Mimecast,Cult Favourite,leaderboard,45,43,80,29,79,6,47
+Orca Security,Cult Favourite,leaderboard,45,31,80,30,80,8,63
+IBM,Cult Favourite,leaderboard,44,30,75,31,88,6,47
+Kasada,Cult Favourite,leaderboard,44,23,84,28,86,5,39
+1Password Business,Cult Favourite,leaderboard,43,21,88,35,60,5,43
+MailGuard,Cult Favourite,leaderboard,43,33,84,29,71,5,39
+Red Piranha,Cult Favourite,leaderboard,43,24,86,20,84,5,38
+Tenable,Cult Favourite,leaderboard,43,51,79,29,61,6,53
+Wiz,Cult Favourite,leaderboard,43,54,82,31,50,6,51
+Malwarebytes,Cult Favourite,leaderboard,41,25,74,52,42,4,36
+Qualys,Cult Favourite,leaderboard,41,51,82,37,36,4,35
+ThreatLocker,Cult Favourite,leaderboard,41,22,76,27,80,4,37
+Gridware,Cult Favourite,leaderboard,40,23,82,8,89,7,61
+Rapid7,Cult Favourite,leaderboard,40,40,81,28,50,6,53
+Splunk,Cult Favourite,leaderboard,40,31,71,24,72,10,79
+Zscaler,Cult Favourite,leaderboard,40,25,74,43,46,4,34
+ManageEngine,Cult Favourite,leaderboard,39,25,71,33,56,8,68
+Okta,Cult Favourite,leaderboard,39,39,81,51,1,7,60
+Senetas,Cult Favourite,leaderboard,39,25,85,22,58,4,31
+Trend Micro,Cult Favourite,leaderboard,39,28,73,25,64,9,71
+Graylog,,under_the_radar,,,,,,,28
+Acronis,,under_the_radar,,,,,,,25
+archTIS,,under_the_radar,,,,,,,24
+Arctic Wolf,,under_the_radar,,,,,,,23
+Barracuda,,under_the_radar,,,,,,,23
+TitanHQ,,under_the_radar,,,,,,,22
+Elastic,,under_the_radar,,,,,,,21
+SailPoint,,under_the_radar,,,,,,,21
+CyberHound,,under_the_radar,,,,,,,20
+Exabeam,,under_the_radar,,,,,,,19
+Norton,,under_the_radar,,,,,,,19
+Ping Identity,,under_the_radar,,,,,,,19
+Cloudflare,,under_the_radar,,,,,,,17
+Broadcom,,under_the_radar,,,,,,,16
+Keeper Security,,under_the_radar,,,,,,,16
+NinjaOne,,under_the_radar,,,,,,,16
+Abnormal AI,,under_the_radar,,,,,,,15
+QuintessenceLabs,,under_the_radar,,,,,,,15
+Secure Code Warrior,,under_the_radar,,,,,,,15
+N-able,,under_the_radar,,,,,,,14
+One Identity,,under_the_radar,,,,,,,14
+Saviynt,,under_the_radar,,,,,,,14
+Trellix,,under_the_radar,,,,,,,14
+JumpCloud,,under_the_radar,,,,,,,13
+Kaspersky,,under_the_radar,,,,,,,13
+ServiceNow,,under_the_radar,,,,,,,13
+AlgoSec,,under_the_radar,,,,,,,12
+Avast,,under_the_radar,,,,,,,12
+EasyDMARC,,under_the_radar,,,,,,,12
+BeyondTrust,,under_the_radar,,,,,,,11
+Cynch Security,,under_the_radar,,,,,,,10
+Delinea,,under_the_radar,,,,,,,10
+KnowBe4,,under_the_radar,,,,,,,10
+Searchlight Cyber,,under_the_radar,,,,,,,10
+DriveStrike,,under_the_radar,,,,,,,9
+Heimdal,,under_the_radar,,,,,,,9
+Libraesva,,under_the_radar,,,,,,,9
+NordLayer,,under_the_radar,,,,,,,9
+Securonix,,under_the_radar,,,,,,,9
+Action1,,under_the_radar,,,,,,,8
+CyberSapiens,,under_the_radar,,,,,,,8
+Datadog,,under_the_radar,,,,,,,8
+OneTrust,,under_the_radar,,,,,,,8
+Trustwave,,under_the_radar,,,,,,,8
+WebTitan,,under_the_radar,,,,,,,8
+Cybereason,,under_the_radar,,,,,,,7
+FirstWave,,under_the_radar,,,,,,,7
+Illumio,,under_the_radar,,,,,,,7
+McAfee,,under_the_radar,,,,,,,7
+MyCISO,,under_the_radar,,,,,,,7
+UpGuard,,under_the_radar,,,,,,,7
+6clicks,,under_the_radar,,,,,,,6
+ConnectWise,,under_the_radar,,,,,,,6
+CyberStash,,under_the_radar,,,,,,,6
+Cynet,,under_the_radar,,,,,,,6
+Invicti,,under_the_radar,,,,,,,6
+LastPass,,under_the_radar,,,,,,,6
+Mithras Threat Defence,,under_the_radar,,,,,,,6
+PentenAmio,,under_the_radar,,,,,,,6
+Phriendly Phishing,,under_the_radar,,,,,,,6
+Snyk,,under_the_radar,,,,,,,6
+Sumo Logic,,under_the_radar,,,,,,,6
+WatchGuard,,under_the_radar,,,,,,,6
+Cyber Aware,,under_the_radar,,,,,,,5
+Cydarm,,under_the_radar,,,,,,,5
+Darktrace,,under_the_radar,,,,,,,5
+FusionAuth,,under_the_radar,,,,,,,5
+Guardz,,under_the_radar,,,,,,,5
+Hoxhunt,,under_the_radar,,,,,,,5
+Netskope,,under_the_radar,,,,,,,5
+Nuix,,under_the_radar,,,,,,,5
+Sysdig,,under_the_radar,,,,,,,5
+ThreatDefence,,under_the_radar,,,,,,,5
+Trustifi,,under_the_radar,,,,,,,5
+Vectra,,under_the_radar,,,,,,,5

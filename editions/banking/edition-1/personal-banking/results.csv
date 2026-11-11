@@ -1,0 +1,56 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+ING,AI Famous,leaderboard,63,57,75,54,78,52,433
+Macquarie,AI Famous,leaderboard,62,38,86,53,69,52,428
+UBank,AI Famous,leaderboard,53,49,79,50,49,33,270
+Up,Rising Star,leaderboard,54,34,81,55,75,23,192
+AMP,Rising Star,leaderboard,51,42,79,41,85,18,152
+HSBC Australia,Rising Star,leaderboard,48,35,59,51,83,18,149
+Bankwest,Rising Star,leaderboard,46,39,65,41,64,22,183
+BOQ,Rising Star,leaderboard,46,27,56,51,83,15,127
+Rabobank,Rising Star,leaderboard,45,51,70,51,36,16,135
+Bank Australia,Rising Star,leaderboard,42,32,61,26,86,15,124
+Unity Bank,Cult Favourite,leaderboard,49,44,70,61,73,4,35
+Wise,Cult Favourite,leaderboard,47,37,69,52,79,4,37
+Suncorp,Cult Favourite,leaderboard,45,31,72,42,72,12,100
+Community First Bank,Cult Favourite,leaderboard,44,52,73,54,41,4,31
+Bank First,Cult Favourite,leaderboard,43,48,71,60,30,5,38
+Judo Bank,Cult Favourite,leaderboard,42,38,72,50,38,8,69
+Revolut,Cult Favourite,leaderboard,42,26,64,45,68,7,58
+NAB,AI Infamous,leaderboard,63,72,46,53,82,73,604
+Westpac,AI Infamous,leaderboard,58,72,34,54,72,72,601
+Commonwealth Bank,AI Infamous,leaderboard,56,54,39,52,59,76,631
+ANZ,AI Infamous,leaderboard,55,71,33,53,60,69,568
+Bendigo Bank,Bad Press,leaderboard,44,38,47,40,86,22,179
+People First Bank,Off the Guest List,leaderboard,42,28,48,49,87,7,61
+St.George,Off the Guest List,leaderboard,36,30,37,40,74,11,89
+BankSA,Off the Guest List,leaderboard,33,27,42,26,75,10,82
+Beyond Bank,Off the Guest List,leaderboard,33,22,45,42,51,4,35
+Bank of Melbourne,Off the Guest List,leaderboard,32,31,31,33,75,8,69
+Great Southern Bank,Off the Guest List,leaderboard,32,30,47,36,35,10,82
+Qudos Bank,,under_the_radar,,,,,,,29
+ME Bank,,under_the_radar,,,,,,,26
+RACQ,,under_the_radar,,,,,,,26
+Teachers Mutual Bank,,under_the_radar,,,,,,,21
+P&N Bank,,under_the_radar,,,,,,,19
+Australian Mutual Bank,,under_the_radar,,,,,,,18
+Gateway Bank,,under_the_radar,,,,,,,18
+Auswide Bank,,under_the_radar,,,,,,,17
+Heartland Bank,,under_the_radar,,,,,,,16
+Virgin Money,,under_the_radar,,,,,,,16
+Heritage Bank,,under_the_radar,,,,,,,15
+BCU Bank,,under_the_radar,,,,,,,14
+Greater Bank,,under_the_radar,,,,,,,13
+MyState,,under_the_radar,,,,,,,13
+First Option Bank,,under_the_radar,,,,,,,12
+MOVE Bank,,under_the_radar,,,,,,,12
+Firefighters Mutual Bank,,under_the_radar,,,,,,,11
+Health Professionals Bank,,under_the_radar,,,,,,,11
+Regional Australia Bank,,under_the_radar,,,,,,,11
+Newcastle Permanent,,under_the_radar,,,,,,,10
+UniBank,,under_the_radar,,,,,,,10
+Australian Military Bank,,under_the_radar,,,,,,,9
+Bank of Sydney,,under_the_radar,,,,,,,9
+IMB Bank,,under_the_radar,,,,,,,9
+Police Bank,,under_the_radar,,,,,,,8
+Queensland Country Bank,,under_the_radar,,,,,,,7
+Arab Bank Australia,,under_the_radar,,,,,,,6

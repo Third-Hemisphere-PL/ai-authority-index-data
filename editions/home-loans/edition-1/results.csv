@@ -1,0 +1,89 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Macquarie Bank,AI Famous,leaderboard,60,45,77,49,84,47,801
+Unloan,Rising Star,leaderboard,58,50,90,48,83,25,423
+ING,Rising Star,leaderboard,53,39,67,57,78,27,468
+loans.com.au,Rising Star,leaderboard,50,37,80,39,77,20,339
+Bendigo Bank,Rising Star,leaderboard,49,34,73,40,86,17,297
+Bank Australia,Rising Star,leaderboard,46,38,71,32,86,16,277
+Tiimely Home,Cult Favourite,leaderboard,51,33,84,46,89,6,103
+Up,Cult Favourite,leaderboard,49,28,87,42,75,10,175
+Liberty,Cult Favourite,leaderboard,48,40,69,47,83,11,188
+Reduce Home Loans,Cult Favourite,leaderboard,48,27,76,50,82,7,112
+Unity Bank,Cult Favourite,leaderboard,48,38,81,43,73,7,127
+Athena,Cult Favourite,leaderboard,47,24,80,44,82,7,123
+La Trobe Financial,Cult Favourite,leaderboard,47,42,65,46,82,10,178
+Pepper Money,Cult Favourite,leaderboard,47,39,69,43,79,13,221
+Suncorp,Cult Favourite,leaderboard,47,28,75,49,72,10,172
+Granite Home Loans,Cult Favourite,leaderboard,46,33,69,48,88,2,40
+Easy Street,Cult Favourite,leaderboard,45,25,70,68,47,3,47
+Hume Bank,Cult Favourite,leaderboard,45,24,75,42,86,2,41
+People First Bank,Cult Favourite,leaderboard,45,29,70,35,87,10,175
+Queensland Country Bank,Cult Favourite,leaderboard,45,26,75,48,69,5,78
+Regional Australia Bank,Cult Favourite,leaderboard,45,27,76,37,82,5,90
+Brighten,Cult Favourite,leaderboard,44,34,56,51,86,2,42
+NRMA,Cult Favourite,leaderboard,44,28,74,41,77,3,49
+Bank of Us,Cult Favourite,leaderboard,43,31,72,28,91,3,57
+Firstmac,Cult Favourite,leaderboard,43,32,60,46,78,7,112
+Freedom Lend,Cult Favourite,leaderboard,42,24,55,51,87,2,31
+Homestar Finance,Cult Favourite,leaderboard,42,23,70,32,84,6,103
+Virgin Money,Cult Favourite,leaderboard,42,30,75,41,57,5,93
+Bridgit,Cult Favourite,leaderboard,41,50,68,36,60,3,45
+ME Bank,Cult Favourite,leaderboard,41,23,71,28,87,5,80
+Greater Bank,Cult Favourite,leaderboard,40,32,70,41,46,8,135
+IMB,Cult Favourite,leaderboard,39,23,62,51,48,6,103
+Mortgage House,Cult Favourite,leaderboard,39,24,58,40,80,2,33
+Yard,Cult Favourite,leaderboard,39,27,57,36,81,2,30
+Bankwest,Cult Favourite,leaderboard,38,26,57,37,64,8,142
+BCU Bank,Cult Favourite,leaderboard,38,21,63,32,77,2,41
+Bank of Melbourne,Cult Favourite,leaderboard,37,24,51,35,75,6,102
+Newcastle Permanent,Cult Favourite,leaderboard,36,30,71,32,39,6,107
+Community First Bank,Cult Favourite,leaderboard,35,22,72,31,41,2,41
+Qudos Bank,Cult Favourite,leaderboard,34,21,54,25,80,2,34
+UBank,Cult Favourite,leaderboard,34,29,69,24,39,9,156
+Gateway Bank,Cult Favourite,leaderboard,33,24,56,18,74,2,39
+Bank of China,Cult Favourite,leaderboard,29,23,58,46,1,3,56
+MyState,Cult Favourite,leaderboard,28,22,51,25,41,2,38
+Westpac,AI Infamous,leaderboard,59,70,49,47,72,67,1150
+Commonwealth Bank,AI Infamous,leaderboard,55,53,43,48,59,71,1224
+NAB,AI Infamous,leaderboard,53,59,40,45,82,56,964
+ANZ,AI Infamous,leaderboard,49,62,34,46,60,57,989
+AMP,Off the Guest List,leaderboard,41,34,35,52,85,14,242
+Bluestone,Off the Guest List,leaderboard,40,28,48,45,84,6,102
+St.George,Off the Guest List,leaderboard,38,28,40,46,74,10,171
+BOQ,Off the Guest List,leaderboard,36,21,41,36,83,8,130
+HSBC Australia,Off the Guest List,leaderboard,35,33,35,36,83,7,126
+BankSA,Off the Guest List,leaderboard,34,22,42,35,75,4,76
+Resimac,Off the Guest List,leaderboard,34,29,39,28,86,5,78
+Great Southern Bank,Off the Guest List,leaderboard,33,39,45,42,35,8,131
+Teachers Mutual Bank,Off the Guest List,leaderboard,27,22,48,22,41,3,49
+Auswide Bank,On the line,leaderboard,33,23,50,20,83,2,40
+Beyond Bank,On the line,leaderboard,30,24,50,23,51,5,88
+South West Slopes Bank,,under_the_radar,,,,,,,29
+Australian Mutual Bank,,under_the_radar,,,,,,,28
+Pacific Mortgage Group,,under_the_radar,,,,,,,28
+P&N Bank,,under_the_radar,,,,,,,27
+Police Credit Union,,under_the_radar,,,,,,,25
+BankVic,,under_the_radar,,,,,,,23
+Thinktank,,under_the_radar,,,,,,,20
+RedZed,,under_the_radar,,,,,,,19
+Police Bank,,under_the_radar,,,,,,,14
+WLTH,,under_the_radar,,,,,,,14
+Bank of Sydney,,under_the_radar,,,,,,,13
+Horizon Bank,,under_the_radar,,,,,,,13
+Border Bank,,under_the_radar,,,,,,,12
+Northern Inland Credit Union,,under_the_radar,,,,,,,12
+Well Money,,under_the_radar,,,,,,,11
+HomeStart,,under_the_radar,,,,,,,9
+Keystart,,under_the_radar,,,,,,,9
+RACQ,,under_the_radar,,,,,,,9
+Excel Funding Group,,under_the_radar,,,,,,,8
+Mortgage Ezy,,under_the_radar,,,,,,,8
+UniBank,,under_the_radar,,,,,,,8
+Laboratories Credit Union,,under_the_radar,,,,,,,7
+Summerland Bank,,under_the_radar,,,,,,,7
+The Capricornian,,under_the_radar,,,,,,,7
+AFG Home Loans,,under_the_radar,,,,,,,6
+Defence Bank,,under_the_radar,,,,,,,5
+MOVE Bank,,under_the_radar,,,,,,,5
+The Mutual Bank,,under_the_radar,,,,,,,5
+Coastline Bank,,under_the_radar,,,,,,,4

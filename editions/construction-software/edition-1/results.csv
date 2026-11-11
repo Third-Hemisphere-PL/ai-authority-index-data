@@ -1,0 +1,136 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+Procore,AI Famous,leaderboard,53,75,52,15,79,68,559
+Buildxact,AI Famous,leaderboard,51,61,79,12,67,50,417
+MYOB,AI Famous,leaderboard,40,46,53,13,75,32,265
+Trimble,AI Famous,leaderboard,37,41,56,16,49,30,245
+Xero,AI Famous,leaderboard,36,48,52,16,39,34,284
+Built Simple,Rising Star,leaderboard,42,36,84,6,67,22,183
+Nexvia,Rising Star,leaderboard,37,31,59,18,72,15,126
+AroFlo,Rising Star,leaderboard,34,38,51,14,66,17,139
+Autodesk Construction Cloud,Rising Star,leaderboard,34,34,51,28,42,20,169
+SimPRO,Rising Star,leaderboard,34,41,52,18,41,24,197
+Graphisoft,Cult Favourite,leaderboard,45,93,68,29,69,4,37
+Premier Construction Software,Cult Favourite,leaderboard,40,30,52,32,91,9,73
+SafetyCulture,Cult Favourite,leaderboard,40,51,70,16,79,5,38
+Asana,Cult Favourite,leaderboard,39,76,62,34,40,4,34
+BuildPass,Cult Favourite,leaderboard,38,25,67,17,84,6,47
+CivDocs,Cult Favourite,leaderboard,38,31,77,8,85,5,42
+Atlassian,Cult Favourite,leaderboard,37,56,63,30,48,4,33
+monday.com,Cult Favourite,leaderboard,37,65,60,33,39,5,39
+Kynection,Cult Favourite,leaderboard,36,26,74,18,57,8,69
+The Access Group,Cult Favourite,leaderboard,36,31,65,13,74,11,87
+Wunderbuild,Cult Favourite,leaderboard,36,26,67,12,79,6,47
+HammerTech,Cult Favourite,leaderboard,35,26,67,8,81,7,55
+ServiceM8,Cult Favourite,leaderboard,35,35,67,12,68,6,49
+Varicon,Cult Favourite,leaderboard,35,28,72,12,68,4,36
+Styck,Cult Favourite,leaderboard,34,24,67,10,72,7,61
+Tradify,Cult Favourite,leaderboard,34,34,65,12,58,11,92
+Fergus,Cult Favourite,leaderboard,33,33,71,4,65,6,52
+Buildlogic,Cult Favourite,leaderboard,32,31,55,20,49,12,102
+Buildern,Cult Favourite,leaderboard,31,23,54,13,71,5,44
+Fieldwire,Cult Favourite,leaderboard,31,25,70,7,56,5,42
+Sitemate,Cult Favourite,leaderboard,31,27,71,6,51,6,53
+ComplyFlow,Cult Favourite,leaderboard,29,22,62,10,49,5,40
+HashMicro,Cult Favourite,leaderboard,29,20,69,3,52,4,34
+ONES.com,Cult Favourite,leaderboard,29,24,62,6,59,4,33
+Connecteam,Cult Favourite,leaderboard,26,23,57,5,50,4,36
+Buildertrend,Bad Press,leaderboard,36,43,43,10,79,25,208
+RIB Software,Bad Press,leaderboard,30,31,47,16,49,16,134
+ClickHome,Off the Guest List,leaderboard,32,28,41,14,92,8,64
+QuickBooks,Off the Guest List,leaderboard,32,32,41,15,84,8,68
+Microsoft,Off the Guest List,leaderboard,27,26,46,11,56,5,45
+Sage,Off the Guest List,leaderboard,27,28,40,17,52,7,61
+Houzz,Off the Guest List,leaderboard,23,21,41,8,51,4,34
+SAP,Off the Guest List,leaderboard,17,22,39,14,1,4,32
+Oracle,On the line,leaderboard,41,42,50,18,85,27,223
+Cubit,On the line,leaderboard,32,35,50,10,80,7,54
+Cheops,On the line,leaderboard,30,27,50,15,57,8,63
+Pronto Software,,under_the_radar,,,,,,,29
+HSI Donesafe,,under_the_radar,,,,,,,28
+Dalux,,under_the_radar,,,,,,,27
+Databuild,,under_the_radar,,,,,,,27
+Assignar,,under_the_radar,,,,,,,26
+Safety Champion,,under_the_radar,,,,,,,26
+JobTread,,under_the_radar,,,,,,,25
+myosh,,under_the_radar,,,,,,,25
+Payapps,,under_the_radar,,,,,,,25
+Bentley Systems,,under_the_radar,,,,,,,24
+ClickUp,,under_the_radar,,,,,,,24
+Mastt,,under_the_radar,,,,,,,23
+Smartsheet,,under_the_radar,,,,,,,23
+PlanSwift,,under_the_radar,,,,,,,22
+Rapid Global,,under_the_radar,,,,,,,21
+VIABUILD,,under_the_radar,,,,,,,21
+Bluebeam Revu,,under_the_radar,,,,,,,20
+JACK App,,under_the_radar,,,,,,,20
+PlanRadar,,under_the_radar,,,,,,,20
+Companion Systems,,under_the_radar,,,,,,,19
+WHS Monitor,,under_the_radar,,,,,,,19
+WorkforceMS,,under_the_radar,,,,,,,19
+Contractor Foreman,,under_the_radar,,,,,,,18
+Ironclad,,under_the_radar,,,,,,,18
+NextMinute,,under_the_radar,,,,,,,18
+WebCM,,under_the_radar,,,,,,,17
+DocuSign,,under_the_radar,,,,,,,16
+Wrike,,under_the_radar,,,,,,,16
+CMiC,,under_the_radar,,,,,,,15
+Vectorworks,,under_the_radar,,,,,,,15
+Cm3,,under_the_radar,,,,,,,14
+Gatekeeper,,under_the_radar,,,,,,,13
+STACK,,under_the_radar,,,,,,,13
+ContractSafe,,under_the_radar,,,,,,,12
+Deep Space,,under_the_radar,,,,,,,12
+EstimateOne,,under_the_radar,,,,,,,12
+Planyard,,under_the_radar,,,,,,,11
+EcoPortal,,under_the_radar,,,,,,,10
+ProjectManager,,under_the_radar,,,,,,,10
+Riskware,,under_the_radar,,,,,,,10
+Worx Safety,,under_the_radar,,,,,,,10
+Commnia,,under_the_radar,,,,,,,9
+Juro,,under_the_radar,,,,,,,9
+Lentune,,under_the_radar,,,,,,,9
+Beakon,,under_the_radar,,,,,,,8
+BUILDMASTER,,under_the_radar,,,,,,,8
+CivilPro,,under_the_radar,,,,,,,8
+Cloudcon,,under_the_radar,,,,,,,8
+CostMiner,,under_the_radar,,,,,,,8
+Evolve Automation,,under_the_radar,,,,,,,8
+Groundplan,,under_the_radar,,,,,,,8
+Hilti,,under_the_radar,,,,,,,8
+Zoho Projects,,under_the_radar,,,,,,,8
+Agiloft,,under_the_radar,,,,,,,7
+Avetta,,under_the_radar,,,,,,,7
+Basecamp,,under_the_radar,,,,,,,7
+MyConstruct,,under_the_radar,,,,,,,7
+Odoo,,under_the_radar,,,,,,,7
+Plexus,,under_the_radar,,,,,,,7
+Teamwork.com,,under_the_radar,,,,,,,7
+BEAMS,,under_the_radar,,,,,,,6
+Bizprac,,under_the_radar,,,,,,,6
+Bricsys,,under_the_radar,,,,,,,6
+BusinessCraft,,under_the_radar,,,,,,,6
+ConstructionOnline,,under_the_radar,,,,,,,6
+Constructor,,under_the_radar,,,,,,,6
+Cotality,,under_the_radar,,,,,,,6
+RazorSign,,under_the_radar,,,,,,,6
+SiteDocs,,under_the_radar,,,,,,,6
+Skytrust,,under_the_radar,,,,,,,6
+Total Synergy,,under_the_radar,,,,,,,6
+Acumatica,,under_the_radar,,,,,,,5
+Allplan,,under_the_radar,,,,,,,5
+Ascora,,under_the_radar,,,,,,,5
+Away Digital,,under_the_radar,,,,,,,5
+Benchmark Estimating,,under_the_radar,,,,,,,5
+Camms,,under_the_radar,,,,,,,5
+Civica,,under_the_radar,,,,,,,5
+Deputy,,under_the_radar,,,,,,,5
+Lex Australia,,under_the_radar,,,,,,,5
+LinkSquares,,under_the_radar,,,,,,,5
+Noggin,,under_the_radar,,,,,,,5
+OneBookPlus,,under_the_radar,,,,,,,5
+ProcurePro,,under_the_radar,,,,,,,5
+Reckon,,under_the_radar,,,,,,,5
+Sentrient,,under_the_radar,,,,,,,5
+Site App Pro,,under_the_radar,,,,,,,5
+UniPhi,,under_the_radar,,,,,,,5
+WorkflowMax,,under_the_radar,,,,,,,5
