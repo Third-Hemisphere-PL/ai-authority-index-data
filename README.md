@@ -11,6 +11,19 @@ Every edition is published under CC BY 4.0. You may share and adapt the data for
 | Market | Edition | Published | Data | DOI | Edition page |
 |---|---|---|---|---|---|
 | Personal Lending | Edition 1 | 19 October 2026 | [results.csv](editions/personal-lending/edition-1/results.csv) | [10.5281/zenodo.23809586](https://doi.org/10.5281/zenodo.23809586) | [thirdhemisphere.agency/ai-authority-index/personal-lending](https://thirdhemisphere.agency/ai-authority-index/personal-lending) |
+| Home Loans | Edition 1 | 7 November 2026 | [results.csv](editions/home-loans/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/home-loans](https://thirdhemisphere.agency/ai-authority-index/home-loans) |
+| Payments | Edition 1 | 7 November 2026 | [results.csv](editions/payments/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/payments](https://thirdhemisphere.agency/ai-authority-index/payments) |
+| Cyber Security: Cyber security services | Edition 1 | 9 November 2026 | [results.csv](editions/cyber-security/edition-1/cyber-security-services/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/cyber-security](https://thirdhemisphere.agency/ai-authority-index/cyber-security) |
+| Cyber Security: Cyber security software | Edition 1 | 9 November 2026 | [results.csv](editions/cyber-security/edition-1/cyber-security-software/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/cyber-security](https://thirdhemisphere.agency/ai-authority-index/cyber-security) |
+| Digital Health | Edition 1 | 10 November 2026 | [results.csv](editions/digital-health/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/digital-health](https://thirdhemisphere.agency/ai-authority-index/digital-health) |
+| Supermarkets | Edition 1 | 10 November 2026 | [results.csv](editions/supermarkets/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/supermarkets](https://thirdhemisphere.agency/ai-authority-index/supermarkets) |
+| Property Development | Edition 1 | 10 November 2026 | [results.csv](editions/property-development/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/property-development](https://thirdhemisphere.agency/ai-authority-index/property-development) |
+| Banking: Business banking | Edition 1 | 7 November 2026 | [results.csv](editions/banking/edition-1/business-banking/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/banking](https://thirdhemisphere.agency/ai-authority-index/banking) |
+| Banking: Personal banking | Edition 1 | 7 November 2026 | [results.csv](editions/banking/edition-1/personal-banking/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/banking](https://thirdhemisphere.agency/ai-authority-index/banking) |
+| Automotive | Edition 1 | 9 November 2026 | [results.csv](editions/automotive/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/automotive](https://thirdhemisphere.agency/ai-authority-index/automotive) |
+| Hydrogen | Edition 1 | 9 November 2026 | [results.csv](editions/hydrogen/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/hydrogen](https://thirdhemisphere.agency/ai-authority-index/hydrogen) |
+| Solar and Batteries | Edition 1 | 9 November 2026 | [results.csv](editions/solar-and-batteries/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/solar-and-batteries](https://thirdhemisphere.agency/ai-authority-index/solar-and-batteries) |
+| Construction Software | Edition 1 | 9 November 2026 | [results.csv](editions/construction-software/edition-1/results.csv) | Pending | [thirdhemisphere.agency/ai-authority-index/construction-software](https://thirdhemisphere.agency/ai-authority-index/construction-software) |
 
 Each edition folder has its own README describing every column.
 

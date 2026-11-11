@@ -1,0 +1,42 @@
+company,star_chart_cell,group,crisp_score,consensus,reputation,influence,source,presence,named_in_answers
+NAB,AI Famous,leaderboard,67,81,64,38,82,85,706
+Westpac,AI Famous,leaderboard,64,80,59,39,72,81,674
+Commonwealth Bank,AI Famous,leaderboard,60,50,60,40,59,86,712
+ANZ,AI Famous,leaderboard,59,74,55,43,60,72,601
+Wise,AI Famous,leaderboard,59,47,84,54,80,33,270
+Airwallex,AI Famous,leaderboard,58,53,82,49,63,41,337
+Macquarie,AI Famous,leaderboard,52,33,82,40,69,31,261
+Zeller,Rising Star,leaderboard,53,35,77,49,82,21,172
+Judo Bank,Rising Star,leaderboard,48,45,88,47,38,15,122
+AMP,Cult Favourite,leaderboard,51,46,80,44,85,9,73
+Regional Australia Bank,Cult Favourite,leaderboard,47,28,68,53,82,5,45
+Suncorp,Cult Favourite,leaderboard,47,28,70,53,72,12,98
+HSBC Australia,Cult Favourite,leaderboard,46,33,77,37,83,7,54
+People First Bank,Cult Favourite,leaderboard,46,26,78,38,87,5,44
+Bank Australia,Cult Favourite,leaderboard,45,31,70,36,86,8,68
+Bendigo Bank,Cult Favourite,leaderboard,45,28,74,30,86,14,118
+ING,Cult Favourite,leaderboard,45,30,65,50,78,5,41
+OFX,Cult Favourite,leaderboard,44,40,83,23,65,14,113
+Revolut,Cult Favourite,leaderboard,43,29,69,38,68,12,100
+Great Southern Bank,Cult Favourite,leaderboard,42,40,81,40,35,10,82
+Rabobank,Cult Favourite,leaderboard,42,56,68,47,36,7,56
+BOQ,Cult Favourite,leaderboard,40,27,53,35,83,10,83
+St.George,Cult Favourite,leaderboard,38,24,51,42,74,4,32
+Beyond Bank,Cult Favourite,leaderboard,37,24,57,47,51,4,31
+Bank of Melbourne,Off the Guest List,leaderboard,32,24,41,27,75,7,61
+BankSA,On the line,leaderboard,32,25,50,19,75,5,43
+WorldFirst,,under_the_radar,,,,,,,28
+Southern Cross Credit Union,,under_the_radar,,,,,,,23
+Tyro,,under_the_radar,,,,,,,16
+Auswide Bank,,under_the_radar,,,,,,,14
+IMB Bank,,under_the_radar,,,,,,,14
+Aspire,,under_the_radar,,,,,,,12
+Bank of Sydney,,under_the_radar,,,,,,,12
+Stripe,,under_the_radar,,,,,,,12
+Community First Bank,,under_the_radar,,,,,,,11
+PayPal,,under_the_radar,,,,,,,10
+P&N Bank,,under_the_radar,,,,,,,8
+Prospa,,under_the_radar,,,,,,,6
+bcu Bank,,under_the_radar,,,,,,,5
+Goldfields Money,,under_the_radar,,,,,,,5
+TorFX,,under_the_radar,,,,,,,5
