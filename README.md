@@ -2,7 +2,7 @@
 
 ![AI Authority Index: Personal Lending, Edition 1, the Star Chart of the 28 Leaderboard lenders, by Third Hemisphere](assets/personal-lending-edition-1-cover.png)
 
-The published results of the **AI Authority Index**, Third Hemisphere's index of how AI engines (ChatGPT, Claude, Copilot, Gemini, and Perplexity) describe, recommend, and source the companies in an Australian market. The index measures **AI visibility**: how often AI search engines and assistants name, recommend, and cite each company, which is the outcome AI SEO and generative engine optimisation (GEO) aim to improve.
+The published results of **the AI Authority Index™**, Third Hemisphere's index of how AI engines (ChatGPT, Claude, Copilot, Gemini, and Perplexity) describe, recommend, and source the companies in an Australian market. The index measures **AI visibility**: how often AI search engines and assistants name, recommend, and cite each company, which is the outcome AI SEO and generative engine optimisation (GEO) aim to improve. The index is measured with CRISP™, Third Hemisphere's AI-visibility measurement software, named for its five factors: Consensus, Reputation, Influence, Source, and Presence.
 
 Every edition is published under CC BY 4.0. You may share and adapt the data for any purpose, provided you credit Third Hemisphere.
 
@@ -10,7 +10,7 @@ Every edition is published under CC BY 4.0. You may share and adapt the data for
 
 | Market | Edition | Published | Data | DOI | Edition page |
 |---|---|---|---|---|---|
-| Personal Lending | Edition 1 | 19 October 2026 | [results.csv](editions/personal-lending/edition-1/results.csv) | [10.5281/zenodo.23809586](https://doi.org/10.5281/zenodo.23809586) | [thirdhemisphere.agency/ai-authority-index/personal-lending](https://thirdhemisphere.agency/ai-authority-index/personal-lending) |
+| Personal Lending | Edition 1 | First published on 1 October 2026, updated 19 October 2026 | [results.csv](editions/personal-lending/edition-1/results.csv) | [10.5281/zenodo.23809586](https://doi.org/10.5281/zenodo.23809586) | [thirdhemisphere.agency/ai-authority-index/personal-lending](https://thirdhemisphere.agency/ai-authority-index/personal-lending) |
 | Home Loans | Edition 1 | 7 November 2026 | [results.csv](editions/home-loans/edition-1/results.csv) | [10.5281/zenodo.24146507](https://doi.org/10.5281/zenodo.24146507) | [thirdhemisphere.agency/ai-authority-index/home-loans](https://thirdhemisphere.agency/ai-authority-index/home-loans) |
 | Payments | Edition 1 | 7 November 2026 | [results.csv](editions/payments/edition-1/results.csv) | [10.5281/zenodo.24146536](https://doi.org/10.5281/zenodo.24146536) | [thirdhemisphere.agency/ai-authority-index/payments](https://thirdhemisphere.agency/ai-authority-index/payments) |
 | Cyber Security: Cyber security services | Edition 1 | 9 November 2026 | [results.csv](editions/cyber-security/edition-1/cyber-security-services/results.csv) | [10.5281/zenodo.24146526](https://doi.org/10.5281/zenodo.24146526) | [thirdhemisphere.agency/ai-authority-index/cyber-security](https://thirdhemisphere.agency/ai-authority-index/cyber-security) |
@@ -48,7 +48,7 @@ These are results only. The data describes what AI engines said in each edition'
 
 ## About the author
 
-Jeremy Liddle is the Executive Chair of Third Hemisphere and the author of the AI Authority Index. He designed CRISP, the proprietary technology and methodology behind the Index, and leads its development. More: https://thirdhemisphere.agency/ai-authority-index/author
+Jeremy Liddle is the Executive Chair of Third Hemisphere and the author of the AI Authority Index. He designed CRISP, the proprietary AI-visibility measurement software behind the Index, and leads its development. More: https://thirdhemisphere.agency/ai-authority-index/author
 
 ## About Third Hemisphere
 
@@ -56,10 +56,14 @@ Third Hemisphere is the integrated PR, marketing, AI Authority & Visibility, and
 
 ## How to cite
 
-Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 19 October 2026, https://doi.org/10.5281/zenodo.23809586.
+Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, first published on 1 October 2026, updated 19 October 2026, https://doi.org/10.5281/zenodo.23809586.
 
 GitHub's "Cite this repository" button reads [CITATION.cff](CITATION.cff).
 
 ## Licence
 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md).
+
+## Trade marks
+
+CRISP™ and AI Authority Index™ are trade marks of Third Hemisphere Pty Ltd.

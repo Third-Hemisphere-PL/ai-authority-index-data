@@ -8,7 +8,7 @@ authors:
   - family-names: "Liddle"
     given-names: "Jeremy"
     affiliation: "Third Hemisphere"
-abstract: "The published results of Third Hemisphere's AI Authority Index for personal lending, Edition 1, published on 19 October 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/personal-lending."
+abstract: "The published results of the AI Authority Index™ from Third Hemisphere for personal lending, Edition 1, first published on 1 October 2026 and updated 19 October 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP™ score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. CRISP is Third Hemisphere's AI-visibility measurement software, named for its five factors: Consensus, Reputation, Influence, Source, and Presence. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/personal-lending."
 date-released: 2026-10-19
 version: "Edition 1"
 license: CC-BY-4.0
