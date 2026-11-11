@@ -1,13 +1,13 @@
 # AI Authority Index: Personal Lending, Edition 1 (results)
 
-The published results of the AI Authority Index™ from Third Hemisphere for personal lending, Edition 1, first published on 1 October 2026 and updated 19 October 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP™ score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. CRISP is Third Hemisphere's AI-visibility measurement software, named for its five factors: Consensus, Reputation, Influence, Source, and Presence. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/personal-lending.
+The published results of Third Hemisphere's AI Authority Index for personal lending, Edition 1, published on 1 October 2026 and updated on 4 November 2026. Each row is a company the edition names: every company on its Leaderboard, with the Star Chart cell it sits in, its CRISP score, and the readings the edition page prints for it, and every company Under the Radar, with the answers that named it. All are read from 805 AI answers from ChatGPT, Claude, Copilot, Gemini, and Perplexity. The full edition, with what each cell means, is at https://thirdhemisphere.agency/ai-authority-index/personal-lending.
 
 ## The edition
 
 - Edition: Edition 1
 - Market: Personal Lending
-- First published: 1 October 2026
-- Updated: 19 October 2026
+- Published: 1 October 2026
+- Updated: 4 November 2026
 - Publisher: Third Hemisphere
 - The edition page: https://thirdhemisphere.agency/ai-authority-index/personal-lending
 
@@ -46,7 +46,7 @@ Each edition asks a market's own buyer questions of five AI engines, reads every
 
 No company can pay to be included or to be placed, and Third Hemisphere's clients are measured on the same instrument as everyone else. An edition passes the publication gate before it publishes, and it stands until the next edition of that market replaces it.
 
-The AI Authority Index, defined: https://thirdhemisphere.agency/glossary/ai-authority-index
+AI Authority Index, defined: https://thirdhemisphere.agency/glossary/ai-authority-index
 
 ## About CRISP
 
@@ -58,7 +58,7 @@ How CRISP is collected and scored: https://thirdhemisphere.agency/crisp-methodol
 
 ## About the author: Jeremy Liddle
 
-Jeremy Liddle is the Executive Chair of Third Hemisphere and the author of the AI Authority Index. He designed CRISP, the proprietary AI-visibility measurement software behind the Index, and leads its development.
+Jeremy Liddle is the Executive Chair of Third Hemisphere and the author of the AI Authority Index. He designed CRISP, the proprietary technology and methodology behind the Index, and leads its development.
 
 Jeremy Liddle, author of the AI Authority Index: https://thirdhemisphere.agency/ai-authority-index/author
 
@@ -80,8 +80,4 @@ Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecomm
 
 Third Hemisphere, AI Authority Index, Personal Lending, Edition 1. https://doi.org/10.5281/zenodo.23809586
 
-For example: Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, first published on 1 October 2026, updated 19 October 2026, https://doi.org/10.5281/zenodo.23809586.
-
-## Trade marks
-
-CRISP™ and AI Authority Index™ are trade marks of Third Hemisphere Pty Ltd.
+For example: Third Hemisphere, AI Authority Index, Personal Lending, Edition 1, published 1 October 2026, https://doi.org/10.5281/zenodo.23809586.
