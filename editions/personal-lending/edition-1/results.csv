@@ -8,12 +8,12 @@ Bendigo Bank,Cult Favourite,leaderboard,49,28,58,60,86,14,112
 NOW Finance,Cult Favourite,leaderboard,48,36,66,52,89,8,62
 Plenti,Cult Favourite,leaderboard,48,37,68,46,84,12,96
 loans.com.au,Cult Favourite,leaderboard,47,32,59,63,77,5,40
-OurMoneyMarket,Cult Favourite,leaderboard,47,39,69,46,80,9,72
+OurMoneyMarket,Cult Favourite,leaderboard,47,39,69,46,80,9,73
 Harmoney,Cult Favourite,leaderboard,45,41,67,54,51,10,80
 Liberty,Cult Favourite,leaderboard,45,34,65,40,83,13,106
 MONEYME,Cult Favourite,leaderboard,43,36,59,47,71,9,72
 Bankwest,Cult Favourite,leaderboard,42,27,54,57,64,7,57
-People First Bank,Cult Favourite,leaderboard,42,27,54,44,87,5,44
+People First Bank,Cult Favourite,leaderboard,42,27,54,44,87,5,47
 Pepper Money,Cult Favourite,leaderboard,42,36,60,36,79,12,95
 Bank Australia,Cult Favourite,leaderboard,40,25,54,40,86,5,38
 Wisr,Cult Favourite,leaderboard,38,28,53,31,87,5,38
@@ -47,7 +47,7 @@ Unity Bank,,under_the_radar,,,,,,,15
 Virgin Money,,under_the_radar,,,,,,,15
 Firstmac,,under_the_radar,,,,,,,14
 UniBank,,under_the_radar,,,,,,,12
-Australian Mutual Bank,,under_the_radar,,,,,,,10
+Australian Mutual Bank,,under_the_radar,,,,,,,11
 Fundo,,under_the_radar,,,,,,,10
 Kogan Money,,under_the_radar,,,,,,,10
 MyPayNow,,under_the_radar,,,,,,,10
@@ -73,7 +73,6 @@ Angle Auto Finance,,under_the_radar,,,,,,,5
 Finance One,,under_the_radar,,,,,,,5
 MoneySpot,,under_the_radar,,,,,,,5
 SocietyOne,,under_the_radar,,,,,,,5
-Bank First,,under_the_radar,,,,,,,4
 BCU Bank,,under_the_radar,,,,,,,4
 Cash Direct,,under_the_radar,,,,,,,4
 Credit Union SA,,under_the_radar,,,,,,,4
@@ -81,10 +80,12 @@ MOVE Bank,,under_the_radar,,,,,,,4
 RACV Finance,,under_the_radar,,,,,,,4
 Auswide Bank,,under_the_radar,,,,,,,3
 AutoSwift Finance,,under_the_radar,,,,,,,3
+Bank First,,under_the_radar,,,,,,,3
 BankVic,,under_the_radar,,,,,,,3
 Cash Lab,,under_the_radar,,,,,,,3
 Cash Stop,,under_the_radar,,,,,,,3
 Credit24,,under_the_radar,,,,,,,3
+Humm,,under_the_radar,,,,,,,3
 Klarna,,under_the_radar,,,,,,,3
 Laboratories Credit Union,,under_the_radar,,,,,,,3
 Police Credit Union,,under_the_radar,,,,,,,3
@@ -100,7 +101,6 @@ ClearCash,,under_the_radar,,,,,,,2
 Dnister Bank,,under_the_radar,,,,,,,2
 EBP Money,,under_the_radar,,,,,,,2
 Good to Go Loans,,under_the_radar,,,,,,,2
-Humm,,under_the_radar,,,,,,,2
 PressPay,,under_the_radar,,,,,,,2
 Quickcash,,under_the_radar,,,,,,,2
 Quickzy Finance,,under_the_radar,,,,,,,2
